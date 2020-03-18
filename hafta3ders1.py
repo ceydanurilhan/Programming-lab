@@ -25,7 +25,7 @@ print(lookup(my_d,5))
 
 
 
-#recurcive fibonnacci
+#recursive fibonacci
 
 
 known={0:0,1:1}
