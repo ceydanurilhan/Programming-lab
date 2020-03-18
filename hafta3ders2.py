@@ -11,12 +11,12 @@ t.intersect(s)
 
 t**2
 
-#probability calculation
+#polasılık hesabı
 
 def probability(space, event):
   return len(event)/len(space)
 
-#is it prime number
+#asal sayı mı
 def check_prime(number):
   if number!=1:
     for factor in range(2,number):
