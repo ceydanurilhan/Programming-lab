@@ -11,7 +11,7 @@ t.intersect(s)
 
 t**2
 
-#polasılık hesabı
+#olasılık hesabı
 
 def probability(space, event):
   return len(event)/len(space)
